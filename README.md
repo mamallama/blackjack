@@ -13,6 +13,6 @@ After that, tell the Advisor what your dealer has.
 The Blackjack Advisor will take care of the rest. 
 
 ###### DISCLAIMER
-Blackjack Advisor is not responsible for gambling debts, loan shark induced stress, suicidal thoughts, and/or irrational behavior. 
+Blackjack Advisor is not responsible for gambling debts, loan shark-induced stress, suicidal thoughts, and/or irrational behavior. 
 
-:shipit: Gambling addiction? Call 1-888-get-help
+:shipit: Gambling addiction? Call 1-888-get-help 
